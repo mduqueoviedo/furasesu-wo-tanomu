@@ -1,0 +1,62 @@
+[
+  {
+    "id": "persona-hito",
+    "kanji": "人",
+    "kana": "ひと",
+    "romaji": "hito",
+    "es": "persona",
+    "tema": ["gente"],
+    "nivel": "N5",
+    "leccionLibro": "N5-L01"
+  },
+  {
+    "id": "libro-hon",
+    "kanji": "本",
+    "kana": "ほん",
+    "romaji": "hon",
+    "es": "libro",
+    "tema": ["estudios", "objetos"],
+    "nivel": "N5",
+    "leccionLibro": "N5-L02"
+  },
+  {
+    "id": "comer-taberu",
+    "kanji": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "es": "comer",
+    "tema": ["comida", "verbos"],
+    "nivel": "N5",
+    "leccionLibro": "N5-L15"
+  },
+  {
+    "id": "trabajo-shigoto",
+    "kanji": "仕事",
+    "kana": "しごと",
+    "romaji": "shigoto",
+    "es": "trabajo",
+    "tema": ["trabajo"],
+    "nivel": "N5",
+    "leccionLibro": "N5-L09"
+  },
+  {
+    "id": "casa-ie",
+    "kanji": "家",
+    "kana": "いえ",
+    "romaji": "ie",
+    "es": "casa",
+    "tema": ["casa"],
+    "nivel": "N5",
+    "leccionLibro": "N5-L05"
+  },
+  {
+    "id": "ducha-shawa",
+    "kanji": "シャワーを浴びる",
+    "kana": "シャワーをあびる",
+    "romaji": "shawaa wo abiru",
+    "es": "ducharse",
+    "tema": ["casa", "rutina"],
+    "nivel": "N4",
+    "leccionLibro": "N4-L04"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "desu_copula_basica",
+    "label": "A は B です",
+    "descripcionEs": "Estructura básica de 'A es B'.",
+    "ejemploJa": "私は学生です。",
+    "ejemploEs": "Soy estudiante.",
+    "nivel": "N5",
+    "leccionLibro": "N5-L01",
+    "tags": ["copula"]
+  },
+  {
+    "id": "te_iru_progreso",
+    "label": "～ている (acción en progreso)",
+    "descripcionEs": "Indica acción que está sucediendo en este momento.",
+    "ejemploJa": "本を読んでいる。",
+    "ejemploEs": "Estoy leyendo un libro.",
+    "nivel": "N5",
+    "leccionLibro": "N5-L12",
+    "tags": ["aspecto", "verbo"]
+  },
+  {
+    "id": "kara_razon",
+    "label": "～から (porque)",
+    "descripcionEs": "Expresa causa o razón.",
+    "ejemploJa": "忙しいから、行きません。",
+    "ejemploEs": "Como estoy ocupado, no voy.",
+    "nivel": "N5",
+    "leccionLibro": "N5-L18",
+    "tags": ["conjuncion", "causa"]
+  },
+  {
+    "id": "tara_condicional",
+    "label": "～たら (cuando/si)",
+    "descripcionEs": "Expresa condición o momento posterior.",
+    "ejemploJa": "家に帰ったら、シャワーを浴びます。",
+    "ejemploEs": "Cuando llegue a casa, me ducharé.",
+    "nivel": "N4",
+    "leccionLibro": "N4-L04",
+    "tags": ["condicional"]
+  }
+]

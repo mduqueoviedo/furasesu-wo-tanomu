@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kanji_食",
+    "kanji": "食",
+    "lecturasOn": ["ショク"],
+    "lecturasKun": ["た.べる"],
+    "significadosEs": ["comer", "comida"],
+    "nivel": "N5",
+    "leccionLibro": "N5-L15",
+    "palabrasEjemplo": [
+      {
+        "vocabId": "comer-taberu",
+        "kanjiForma": "食べる",
+        "es": "comer"
+      }
+    ]
+  },
+  {
+    "id": "kanji_家",
+    "kanji": "家",
+    "lecturasOn": ["カ"],
+    "lecturasKun": ["いえ"],
+    "significadosEs": ["casa", "hogar"],
+    "nivel": "N5",
+    "leccionLibro": "N5-L05",
+    "palabrasEjemplo": [
+      {
+        "vocabId": "casa-ie",
+        "kanjiForma": "家",
+        "es": "casa"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "N5-L01": {
+    "titulo": "Introducción: ser",
+    "nivel": "N5",
+    "gramatica": ["desu_copula_basica"],
+    "vocabulario": ["persona-hito"],
+    "kanji": []
+  },
+  "N5-L02": {
+    "titulo": "Objetos básicos",
+    "nivel": "N5",
+    "gramatica": [],
+    "vocabulario": ["libro-hon"],
+    "kanji": []
+  },
+  "N5-L05": {
+    "titulo": "La casa",
+    "nivel": "N5",
+    "gramatica": [],
+    "vocabulario": ["casa-ie"],
+    "kanji": ["kanji_家"]
+  },
+  "N5-L09": {
+    "titulo": "Trabajo",
+    "nivel": "N5",
+    "gramatica": [],
+    "vocabulario": ["trabajo-shigoto"],
+    "kanji": []
+  },
+  "N5-L12": {
+    "titulo": "Acciones en progreso",
+    "nivel": "N5",
+    "gramatica": ["te_iru_progreso"],
+    "vocabulario": [],
+    "kanji": []
+  },
+  "N5-L15": {
+    "titulo": "Comida",
+    "nivel": "N5",
+    "gramatica": [],
+    "vocabulario": ["comer-taberu"],
+    "kanji": ["kanji_食"]
+  },
+  "N4-L04": {
+    "titulo": "Condicional ～たら",
+    "nivel": "N4",
+    "gramatica": ["tara_condicional"],
+    "vocabulario": ["ducha-shawa"],
+    "kanji": []
+  }
+}
